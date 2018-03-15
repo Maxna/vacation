@@ -9,3 +9,17 @@
 .row h3 {
   text-decoration: underline;
 }
+
+.jumbotron {
+  background-color: #D4F4EE;
+}
+
+h2 {
+  font-family: cursive;
+}
+
+@media screen and (max-width: 600px) {
+  h2 {
+    color: CornSilk;
+  }
+}
