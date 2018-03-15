@@ -1,0 +1,11 @@
+.well {
+  height: 120px;
+}
+
+.row p,li{
+  font-weight: bold;
+}
+
+.row h3 {
+  text-decoration: underline;
+}
